@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29eab10efa9bab84d8dd2f38aa08de68, type: 3}
+  m_Name: BookPanel
+  m_EditorClassIdentifier: 
+  itemData:
+  - {fileID: 11400000, guid: dc3ce7959acf1754cb3c3a124f796564, type: 2}
+  - {fileID: 11400000, guid: f57ed48ff95a1d64684081eb42234f2b, type: 2}
+  - {fileID: 11400000, guid: 6a40e1d35e2b91e4faa18d468f392451, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cf720ca3dd681d4fb65a4b523a91dac, type: 3}
+  m_Name: FictionBook
+  m_EditorClassIdentifier: 
+  ItemType: 0
+  ItemIcon: {fileID: 21300000, guid: 2d69689c4f28a3c47b579f3f0fbec18f, type: 3}
+  ConnectedInteractive: BooksInteractive
+  StoryBoard: {fileID: 11400000, guid: 278807fd5a421934fabaa5ce52dac85d, type: 2}
+  ActionTrigger: 
+  MoodPoint: -35

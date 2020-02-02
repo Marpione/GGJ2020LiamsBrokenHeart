@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a1d686e05f7e04383fb53c3cf56e2a, type: 3}
+  m_Name: StartingstoryBoard
+  m_EditorClassIdentifier: 
+  storyFrames:
+  - StoryboardSprite: {fileID: 21300000, guid: 556d90d82751d3d428e2c0b577c40890, type: 3}
+    StoryPostion: {x: -420, y: 213}
+  - StoryboardSprite: {fileID: 21300000, guid: f92598cbe81a2c442a65196e61a0930b, type: 3}
+    StoryPostion: {x: 468, y: 213}
+  - StoryboardSprite: {fileID: 21300000, guid: 3bc7203f2328ade4e8650f832b086fc2, type: 3}
+    StoryPostion: {x: -537.5, y: -271}
+  - StoryboardSprite: {fileID: 21300000, guid: 276c74ddfddc77745af9f475ca36d2d9, type: 3}
+    StoryPostion: {x: 280, y: -239}
